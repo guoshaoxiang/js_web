@@ -1,0 +1,14 @@
+code,check,guide_index,priority
+WARMUP_MATCH_1,check_warmup_match;==;0|check_view_top;MainCityView,200,1002
+WARMUP_MATCH_1_ATTA,check_warmup_match;==;0|check_view_top;PvpBrawlView,204,1002
+WARMUP_MATCH_2,check_warmup_match;==;1|check_view_top;MainCityView,300,1003
+WARMUP_MATCH_2_ATTA,check_warmup_match;==;1|check_view_top;PvpBrawlView,301,1003
+WARMUP_MATCH_3,check_warmup_match;==;2|check_view_top;MainCityView,700,1007
+WARMUP_MATCH_3_ATTA,check_warmup_match;==;2|check_view_top;PvpBrawlView,701,1007
+PVP_SCORE_AWARD,check_warmup_match;==;2|check_guide_not_completed;4|check_view_top;MainCityView,400,1004
+PVP_SCORE_AWARD_ATTA,check_warmup_match;==;2|check_guide_not_completed;4|check_view_top;PvpBrawlView,401,1004
+PVP_SCORE_AWARD_2,check_warmup_match;==;2|check_guide_not_completed;5|check_view_top;MainCityView,500,1005
+HERO_LEVEL_UP,check_warmup_match;==;2|check_guide_not_completed;6|check_view_top;MainCityView,600,1006
+HERO_LEVEL_UP_ATTA,check_warmup_match;==;2|check_guide_not_completed;6|check_view_top;PvpBrawlView,601,1006
+WARMUP_COMPLETED,check_warmup_match;==;3|check_guide_not_completed;8|check_view_top;MainCityView,800,1008
+WARMUP_COMPLETED_ATTA,check_warmup_match;==;3|check_guide_not_completed;8|check_view_top;PvpBrawlView,800,1008
